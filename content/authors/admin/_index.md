@@ -10,6 +10,7 @@ role: Intern and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: School of Brain Science and Brain Medicine, Zhejiang University
   - name: Zhuji Hongji Hospital
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,13 +23,13 @@ interests:
   - Artificial Intelligence
 
 # Education to show in About widget
-experiences:
+education:
   courses:
-    - course: Research Assistant
-      institution: School of Brain Science and Brain Medicine, Department of Rehabilitation Medicine in the First Affiliated Hospital of Zhejiang University
-      year: 2022
+    # - course: Research Assistant
+    #   institution: School of Brain Science and Brain Medicine, Department of Rehabilitation Medicine in the First Affiliated Hospital of Zhejiang University
+    #   year: 2022
     - course: Master in Neurology
-      institution: Tianjin Medical University General Hospital, Tianjin Neurological Institute
+      institution: "Tianjin Medical University General Hospital,  Tianjin Neurological Institute"
       year: 2020
     - course: Bachelor in Clinical Medicine
       institution: Tianjin Medical University
@@ -41,13 +42,14 @@ experiences:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: researchgate
-    icon_pack: fas
-    link: https://www.researchgate.net/profile/Lingmin-Lin-3
+    link: '#contact'
   - icon: google-scholar 
     icon_pack: ai
     link: https://scholar.google.com/citations?user=B8EoH1MAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Lingmin-Lin-3
+
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/*

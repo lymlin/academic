@@ -1,0 +1,37 @@
+﻿@article{RN33,
+   author = {Si, Jiarui and Lin, Lingmin and Chen, Hengle and Zhang, Jiawen and Huang, Chuanyi and Yin, Yuan and Li, Jing},
+   title = {Dynamic Glucose Prediction and Health Management of Diabetes Mellitus Based on Deep Learning},
+   journal = {Basic Clinical Pharmacology Toxicology},
+   volume = {126},
+   pages = {pp. 47},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@misc{RN47,
+   number = {CN202110237882.3},
+   month = {Jun 21},
+   ISBN = {CN114644561A},
+   url = {https://www.patentguru.com/CN114644561A},
+   year = {2022},
+   type = {Patent}
+}
+
+@misc{RN48,
+   number = {CN202110254408.1},
+   month = {Jun 21},
+   ISBN = {CN114644836A},
+   url = {https://www.patentguru.com/CN114644836A},
+   year = {2022},
+   type = {Patent}
+}
+
+@misc{RN46,
+   number = {CN202111660443.X},
+   month = {May 10},
+   ISBN = {CN114452256A},
+   url = {https://www.patentguru.com/CN114452256A},
+   year = {2022},
+   type = {Patent}
+}
+

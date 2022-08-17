@@ -7,18 +7,21 @@ main:
   - name: Introduction
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
-    url: '#featured'
-    weight: 50
+    url: '#publications'
+    weight: 15
+  - name: Skills
+    url: '#skills'
+    weight: 18
+  - name: Experiences
+    url: '#experience'
+    weight: 20
+  - name: Accomplishements
+    url: '#accomplishments'
+    weight: 30
+  - name: Funding&Awards
+    url: '#Funding and Awards'
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60

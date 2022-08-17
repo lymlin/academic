@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 60
+active: false  # Activate this widget? true/false
 
 title: Recent Posts
 subtitle:

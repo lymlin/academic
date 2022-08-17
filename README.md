@@ -1,4 +1,7 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Create my resume with the academic module
+
+
+## [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 

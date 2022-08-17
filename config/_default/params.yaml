@@ -65,8 +65,9 @@ features:
     extra_languages:
       - r
       - latex
+      - html
   math:
-    enable: false
+    enable: ture
   privacy_pack:
     enable: false
   repository:

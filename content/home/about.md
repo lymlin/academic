@@ -1,8 +1,9 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
+#  <https://github.com/wowchemy/wowchemy-hugo-themes/tree/main/modules/wowchemy/layouts/partials/widgets/about.html>
+# widget: about
+widget: 'github.lymlin.avatar'
 # Activate this widget? true/false
 active: true
 
@@ -19,3 +20,4 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
