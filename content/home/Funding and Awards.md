@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Funding and Awards
+title: Grants and Awards
 subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan. 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -39,8 +39,8 @@ experience:
     date_start: '2014-06-01'
     date_end: '2015-12-01'
     description: |2-
-        * 2015 Jun &nbsp; Municipal first prize of the IV physics competition of college students in Tianjin. 
-        * 2014 July &nbsp; Municipal first prize of humanities and medicine class. The mathematics competition of college students in Tianjin. 
+        * Jun. 2015 &nbsp; Won the municipal first prize in the IV physics competition of college students in Tianjin. 
+        * July. 2014 &nbsp; Won the municipal first prize in the humanities and medicine class of the college mathematics in Tianjin. 
 
 
 

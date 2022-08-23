@@ -6,7 +6,7 @@ title: Lingmin Lin
 superuser: true
 
 # Role/position/tagline
-role: Intern and Researcher
+role: Researcher and Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
   - name: Zhuji Hongji Hospital
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to find the master switch of neurological diseases (like stroke, SCI, etc.) and to facilitate the rehabilitation process
+bio: My research interest is finding the master switch of neurological disease (e.g., stroke and spinal cord injury) and facilitating rehabilitation. Currently, I am interested in investigating candidate targets for stroke with electric stimulation and booming intellectual bioinformatics.
 
 # Interests to show in About widget
 interests:
-  - CNS Injure and Immune
+  - CNS Injury and Immune
   - Bioinformatics
   - Artificial Intelligence
+  - Electric stimulation
 
 # Education to show in About widget
 education:
@@ -40,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '#contact'
   - icon: google-scholar 
     icon_pack: ai
     link: https://scholar.google.com/citations?user=B8EoH1MAAAAJ&hl=en
@@ -71,8 +72,9 @@ email: 'lymlin@yeah.net'
 highlight_name: true
 ---
 
-Lingmin Lin was an intern trained in the Tianjin Medical University General Hospital, who also chosed neurology and practiced laboratory skills in the Tianjin Neurological Institute. After graduation, she joined the Wang's lab to futher train her skills. The research interest of Lin is to find the master switch of CNS disease (such as stroke and spinal cord injury) and to facilitate the rehabilitation process. As for now, it is to investigate candidate targets for ischemic stroke or spinal cord injury with booming intelectual bioinformatics or bioengineering
+Lingmin Lin, once an intern trained at Tianjin Medical University General Hospital, chose neurology as her major and practiced laboratory skills at Tianjin Neurological Institute. After graduation, she joined Prof. Wang's lab to further improve her skills. Lin has gone through several projects to seek life value and pursue her innermost desires. Meanwhile, she also developed her computer literacy and research skills and enhanced her sense of mission to promote the functional recovery of CNS injuries.
 
-On the way seeking life value and innermost desires step by step, Lin has practiced several projects. Meanwhile, some computer techniques and research skills have been developed, along with sense of mission to promote the functional outcome of CNS injuries.
+Lin's research interest is finding the master switch of neurological diseases (e.g., stroke and spinal cord injury) and facilitating rehabilitation. Currently, she is interested in investigating candidate targets for stroke with electric stimulation and booming intellectual bioinformatics.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

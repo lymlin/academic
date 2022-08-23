@@ -4,6 +4,7 @@
 #  <https://github.com/wowchemy/wowchemy-hugo-themes/tree/main/modules/wowchemy/layouts/partials/widgets/about.html>
 # widget: about
 widget: 'github.lymlin.avatar'
+
 # Activate this widget? true/false
 active: true
 
@@ -13,7 +14,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Biography
+title: Profile
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

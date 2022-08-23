@@ -20,8 +20,8 @@ feature:
     icon: user-md
     icon_pack: fas
     description: "85% <br>
-      Common diseases, <br>
-      Neurological diseases, <br>
+      Common diseases <br>
+      Neurological diseases <br>
       Clinical care"
   - name: Lab Techniques
     icon: vials
@@ -34,29 +34,30 @@ feature:
     icon: database
     icon_pack: fas
     description: "65% <br>
-      Data preprocessing, <br>
-      Signal processing, <br>
+      Data preprocessing <br>
+      Signal processing <br>
       Biostatistics"
 
   - name: R
     icon: r-project
     icon_pack: fab
     description: "85% <br>
-      Biostatistics, <br>
-      Causal inference, <br>
+      Biostatistics <br>
+      Causal inference <br>
       Bioinformatics"
-  - name: Matlab
+  - name: MATLAB
     icon: m
     icon_pack: fab
     description: "85% <br>
-      Deep learning in diabetes, <br>
-      Electrophysiology, <br>
+      Deep learning in diabetes <br>
+      Electrophysiology <br>
       Behavioral kinetics"
   - name: Python
     icon: python
     icon_pack: fab
     description: "60% <br>
-      Deep learning in diabetes, <br>
+      Deep learning in diabetes <br>
+      Web scraping <br>
       Visualization"
 
   # - name: Cooperation
