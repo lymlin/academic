@@ -72,9 +72,9 @@ email: 'lymlin@yeah.net'
 highlight_name: true
 ---
 
-Lingmin Lin, once an intern trained at Tianjin Medical University General Hospital, chose neurology as her major and practiced laboratory skills at Tianjin Neurological Institute. After graduation, she joined Prof. Wang's lab to further improve her skills. Lin has gone through several projects to seek life value and pursue her innermost desires. Meanwhile, she also developed her computer literacy and research skills and enhanced her sense of mission to promote the functional recovery of CNS injuries.
+Lingmin Lin, once an intern trained at Tianjin Medical University General Hospital, chose neurology as her major and practiced laboratory skills at Tianjin Neurological Institute. After graduation, she joined Prof. Wang's lab to further improve her skills. Lin has gone through several projects to seek life value and pursue her innermost desires. Meanwhile, she also developed her computer literacy and research skills and enhanced her sense of mission to promote the functional recovery of CNS diseases.
 
-Lin's research interest is finding the master switch of neurological diseases (e.g., stroke and spinal cord injury) and facilitating rehabilitation. Currently, she is interested in investigating candidate targets for stroke with electric stimulation and booming intellectual bioinformatics.
+Lin's research interest is finding the master switch of neurological diseases (e.g., stroke, spinal cord injury) and facilitating rehabilitation. Currently, she is interested in investigating candidate targets for stroke with electric stimulation and booming intellectual bioinformatics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
