@@ -1,0 +1,8 @@
+﻿@phdthesis{RN900,
+   author = {Lin, Lingmin},
+   title = {The genetic causality study of serum 25OHD and FGF 23 levels on ischemic stroke},
+   university = {Tianjin Medical University},
+   year = {2020},
+   type = {Thesis}
+}
+
