@@ -9,8 +9,8 @@ authors:
 tags: []
 categories: []
 date: '2020-05-1'
-lastmod: 2020-05-01T18:02:44+08:00
-publishDate: '2020-05-01T18:02:44+08:00'
+lastmod: '2022-08-26T10:02:43.717919Z'
+publishDate: '2020-05-01'
 featured: false
 draft: false
 
@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-26T10:02:43.717919Z'
 publication_types:
 - '7'
 abstract: 'Backgrounds:	The	increasing	global	burden	of	stroke	requires	a	more comprehensive approach for disease prevention; whether the modifiable vitamin D has protective effects on ischemic stroke or subtypes remains a question. Fibroblast growth factor 23 (FGF23) is an emerging independent risk factor on cardiovascular diseases, but its association with ischemic stroke are not consistent. Besides, the causalities between FGF23 and ischemic stroke or subtypes are unclear. Considering the crucial role of FGF23 on vitamin D levels through inhibiting activation and promoting degradation, the function of FGF23 was thought partly dependent on its effects on vitamin D. Thus, vitamin D supplements may benefit for specific groups. Objective: We applied the Mendelian randomization (MR) framework to infer the causalities of circulating vitamin D (25OHD, 25-hydroxyvitamin D) levels and FGF23 levels on ischemic stroke and subtypes, to investigate potential effects of vitamin D supplement among different groups.
