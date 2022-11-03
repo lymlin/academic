@@ -108,7 +108,7 @@ experience:
 
         **Tasks**
         * 2015 -- 2016 &nbsp; Accomplished the **Risk assessment of lumbar disc herniation and exercise rehabilitation** project 
-        * 2015 Summer &nbsp; Accomplished the **Spinal health status survey for college students and healthy spine propaganda** project
+        * 2015 Summer &nbsp; Accomplished the **Spinal health status survey for college students and healthy spine broadcast** project
         Trained in cooperation, task assignment, questionnaire design and data analysis.<br>
         * 2014 -- 2015 &nbsp; Accomplished the **Experimental study on the inhibitory effect of Salubrinal on osteoclast cell lines** project in osteoporosis ovariectomy mice.
         
