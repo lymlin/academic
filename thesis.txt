@@ -1,8 +1,12 @@
-﻿@phdthesis{RN900,
-   author = {Lin, Lingmin},
-   title = {The genetic causality study of serum 25OHD and FGF 23 levels on ischemic stroke},
-   university = {Tianjin Medical University},
-   year = {2020},
-   type = {Thesis}
+﻿@article{RN09,
+   author = {Cao, Jian and Wu, Jiahe and Mu, Jiafu and Lin, Lingmin and Zhang, Xunqi and Huang, Tianchen and Ma, Teng and Zhu, Manning and Dai, Xiaoyang and Wang, Xuhua and Feng, Shiqing and Gao, Jian-Qing},
+   title = {ROS filter coating scaffold protects 3D mesenchymal stem cell spheroids for dual-phase treatment of spinal cord injury},
+   journal = {Chemical Engineering Journal},
+   volume = {462},
+   pages = {142192},
+   ISSN = {1385-8947},
+   DOI = {https://doi.org/10.1016/j.cej.2023.142192},
+   url = {https://www.sciencedirect.com/science/article/pii/S1385894723009233},
+   year = {2023},
+   type = {Journal Article}
 }
-
