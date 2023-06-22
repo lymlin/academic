@@ -14,14 +14,13 @@ organizations:
   - name: Zhuji Hongji Hospital
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is finding the master switch of neurological disease (e.g., stroke and spinal cord injury) and facilitating rehabilitation. Currently, I am interested in investigating candidate targets for stroke with electric stimulation and booming intellectual bioinformatics.
+bio: My research interest is finding the master switch of neurological disease (e.g., stroke) and facilitating rehabilitation by investigating candidate targets for stroke with neuromodulation.
 
 # Interests to show in About widget
 interests:
   - CNS Injury and Immune
   - Bioinformatics
-  - Artificial Intelligence
-  - Electric stimulation
+  - Neuromodulation
 
 # Education to show in About widget
 education:
@@ -29,10 +28,10 @@ education:
     # - course: Research Assistant
     #   institution: School of Brain Science and Brain Medicine, Department of Rehabilitation Medicine in the First Affiliated Hospital of Zhejiang University
     #   year: 2022
-    - course: Master in Neurology
+    - course: Master of medicine (MMsc) in Neurology 
       institution: "Tianjin Medical University General Hospital,  Tianjin Neurological Institute"
       year: 2020
-    - course: Bachelor in Clinical Medicine
+    - course: Bachelor in Clinical Medicine (joined program of bachelor and master degrees)
       institution: Tianjin Medical University
       year: 2018
 
@@ -72,9 +71,7 @@ email: 'lymlin@yeah.net'
 highlight_name: true
 ---
 
-Lingmin Lin, once an intern trained at Tianjin Medical University General Hospital, chose neurology as her major and practiced laboratory skills at Tianjin Neurological Institute. After graduation, she joined Prof. Wang's lab to further improve her skills. Lin has gone through several projects to seek life value and pursue her innermost desires. Meanwhile, she also developed her computer literacy and research skills and enhanced her sense of mission to promote the functional recovery of CNS diseases.
-
-Lin's research interest is finding the master switch of neurological diseases (e.g., stroke, spinal cord injury) and facilitating rehabilitation. Currently, she is interested in investigating candidate targets for stroke with electric stimulation and booming intellectual bioinformatics.
+My primary interest is finding the master switch or more effective therapies for neurological disease (e.g., stroke) and facilitating rehabilitation with the help of neuromodulation, for example, by further understanding underlying mechanisms or investigating candidate targets.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

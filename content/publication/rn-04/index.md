@@ -24,7 +24,7 @@ categories: []
 date: '2022-07-11'
 lastmod: 2022-08-16T01:48:59+08:00
 # Display this page in the Featured widget?
-featured: false
+featured: true
 draft: false
 
 # Featured image
