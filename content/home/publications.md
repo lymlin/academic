@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 21  
 
-title: [Recent Publications](https://lymcv.netlify.com/publication/#)
+title: [Recent Publications]({{< ref "https://lymcv.netlify.com/publication/#" >}})
 subtitle: ''
 
 content:
