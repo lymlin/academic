@@ -74,4 +74,4 @@ highlight_name: true
 My primary interest is finding the master switch or more effective therapies for neurological disease (e.g., stroke) and facilitating rehabilitation with the help of neuromodulation, for example, by further understanding underlying mechanisms or investigating candidate targets.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
