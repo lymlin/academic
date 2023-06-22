@@ -11,7 +11,7 @@ categories: []
 date: '2020-05-1'
 lastmod: '2022-08-26T10:02:43.717919Z'
 publishDate: '2020-05-01'
-featured: false
+featured: true
 draft: false
 
 # Featured image
