@@ -14,7 +14,7 @@ organizations:
   - name: Zhuji Hongji Hospital
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is finding the master switch of neurological disease (e.g., stroke) and facilitating rehabilitation by investigating candidate targets for stroke with neuromodulation.
+bio: My research interest is finding the master switch of neurological disease (e.g., stroke, SCI) and facilitating rehabilitation by investigating candidate targets for these diseases with neuromodulation.
 
 # Interests to show in About widget
 interests:
