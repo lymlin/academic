@@ -32,7 +32,6 @@ authors:
   - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
-  - 'Equal contribution'
 tags: []
 categories: []
 date: '2023-07-07'
