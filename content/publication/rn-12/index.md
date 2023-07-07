@@ -28,7 +28,8 @@ authors:
 - Xiaosong Gu
 - Bin Yu
 - Xuhua Wang
-- author_notes:
+author_notes:
+  - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
